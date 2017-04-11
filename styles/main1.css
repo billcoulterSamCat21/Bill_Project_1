@@ -1,0 +1,23 @@
+h1{
+    color: red;
+}
+
+p {
+    color: blue;
+    font-size: 210%;
+}
+
+ul {
+    color: green;
+    font-size: 400%;
+    margin-left: 2em;
+    padding-bottom: 2em;
+    list-style: hebrew;
+    border-left: 2px solid green;
+    border-right: 4px solid green;
+    border-top: 4px dashed red;
+}
+
+body {
+    padding: 2em;
+}
